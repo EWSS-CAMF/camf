@@ -1,6 +1,6 @@
 # COMMON ALERT MESSAGE FORMAT
 
-This repository contains CSV files for tables from the specification v1.0 https://www.gsc-europa.eu/sites/default/files/sites/all/files/EWSS-CAMF_v1.0.pdf
+This repository contains [CSV files for tables](data) from the specification v1.0 https://www.gsc-europa.eu/sites/default/files/sites/all/files/EWSS-CAMF_v1.0.pdf
 
 > Note: `data/i18n/fr/*.csv` has been translated from `data/i18n/en/*.csv` using ChatGPT.
 
@@ -37,6 +37,7 @@ The Common Alert Message Format (CAMF) is based on 122 bits, to be encapsulated 
 
 * https://www.unoosa.org/documents/pdf/icg/2023/ICG-17/icg17_wgb_20.pdf
 * https://www.gsc-europa.eu/sites/default/files/sites/all/files/EWSS-CAMF_v1.0.pdf
+  * [References into specifications](references.md)
 
 ## Languages
 
