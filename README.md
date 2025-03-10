@@ -11,14 +11,6 @@ The Common Alert Message Format (CAMF) is based on 122 bits, to be encapsulated 
 * https://www.unoosa.org/documents/pdf/icg/2023/ICG-17/icg17_wgb_20.pdf
 * https://www.gsc-europa.eu/sites/default/files/sites/all/files/EWSS-CAMF_v1.0.pdf
 
-## ToDoList
-
-* [ ] add printf function
-* [ ] compute geofence with ellipses
-* [ ] compute geohashes for ellipses
-
-![EWSS forest fire](https://air.imag.fr/images/a/a8/EWSS-01.jpg)
-
 ## Languages
 
 ### C/C++
