@@ -6,6 +6,8 @@ This repository contains [CSV files for tables](data) from the specification v1.
 
 ## Context: The Common Alert Message Format (CAMF)
 
+The Common Alert Message Format (CAMF) can be implemented in any satellite navigation systems to code and broadcast alert messages encapsulated in the satellite navigation signals.
+
 The Common Alert Message Format (CAMF) is based on 122 bits, to be encapsulated in the signals of the 🛰️🛰️🛰️🛰️🛰️ satellite navigation systems 🛰️🛰️🛰️🛰️🛰️. This size is driven by design constraints applying to some satellite constellations, where only a limited number of bits is available for messaging. The CAMF has been developed with these constraints. However, if satellite navigation providers have more space in their signals (i.e. spare bits), it is still possible to use these extra bits for extending the information contained in the EWM (e.g. for adding more severity levels, or more instructions).
 
 * Message identifier
