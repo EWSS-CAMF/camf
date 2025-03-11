@@ -61,6 +61,13 @@ TODO
 
 TODO
 
+### GeoJSON
+
+TODO
+
+### iCalendar (`.ics`)
+
+TODO
 
 ## Media
 
