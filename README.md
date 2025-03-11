@@ -53,7 +53,7 @@ TODO
 
 TODO
 
-### Java
+### Java and Android
 
 TODO
 
@@ -61,9 +61,17 @@ TODO
 
 TODO
 
-### GeoJSON
+## Representations
+
+### Protobuf
 
 TODO
+
+### JSON and GeoJSON
+
+TODO
+
+[GeoJSON Ellipse spec](https://gist.github.com/virtualandy/1233401#file-geojson-spec-1-1-L211)
 
 ### iCalendar (`.ics`)
 
